@@ -65,7 +65,7 @@ disqus: # fromendworld
 gitalk:
   clientID: Ov23li16lnrUH0TpQoOx
   clientSecret: 12ac6c639de58c70d9312fd5d594b5508d0b7c94
-  repo: ez4jc.github.io
+  repo: ez4jc.github.io/jcjq
   owner: ez4jc
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
